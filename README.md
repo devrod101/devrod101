@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rodrigo Ptrln
 - 👀 I’m FullStack Dev/Data Analyst
-- 💞️ I’m looking to collaborate on open source projects
+- 💞️ collaborator on open source projects
 - 📫 How to reach me, just add me on instagram @rodrigoptrln
 
 <!---
